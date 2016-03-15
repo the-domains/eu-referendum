@@ -1,0 +1,28 @@
+name: EU Referendum
+favicon: null
+layout_spectrum: 0.07980134524405003
+typography_spectrum: 0.6258882118854672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7286771065555513
+  lightness: 0.06006917078047991
+  saturation: 0.056920811301097274
+  rhythmicContrast: 0.19909467943944037
+purpose: []
