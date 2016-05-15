@@ -4,19 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The EU publishes all official documents of Commission decisions, EU regulations, funding programs and a lot more on its website and makes them available for everybody. In any rating of legislative transparency, the EU would, surely, come out first in the world. Source '
-datePublished: '2016-05-15T22:57:39.403Z'
-dateModified: '2016-05-15T22:57:26.016Z'
+description: 'The EU publishes all official documents of Commission decisions, EU regulations, funding programs and a lot more on its website and makes them available for everybody. In any rating of legislative transparency, the EU would, surely, come out first in the world.Source'
+datePublished: '2016-05-15T23:10:24.131Z'
+dateModified: '2016-05-15T23:06:59.588Z'
 title: The EU is transparant
 author: []
+sourcePath: _posts/2016-05-15-the-eu-is-transparant.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-15-the-eu-is-transparant.md
+starred: true
 url: the-eu-is-transparant/index.html
 _type: Article
 
@@ -31,7 +31,7 @@ Here are examples:
 * [EU Parliament][1]
 * [European Commission][2]
 * [European Council][3]
-* [EU Budget][4]  
+* [EU Budget][4]
 
 Here is a handy overview of [key documents per institution][5]. 
 
