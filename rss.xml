@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EU Referendum]]></title>
+        <description><![CDATA[EU Referendum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 22:57:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The EU is transparant]]></title>
+            <description><![CDATA[<article><h1>The EU is transparant</h1><p>The EU publishes all official documents of Commission decisions, EU regulations, funding programs and a lot more on its website and makes them available for everybody. In any rating of legislative transparency, the EU would, surely, come out first in the world.Source</p></article>]]></description>
+            <link>undefinedthe-eu-is-transparant/index.html</link>
+            <guid isPermaLink="false">92b04963-f414-4cb8-90df-68ea8ba5d6ba</guid>
+            <pubDate>Sun, 15 May 2016 22:57:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
