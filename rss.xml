@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EU Referendum]]></title>
         <description><![CDATA[EU Referendum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eu-referendum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 22:57:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 23:10:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eu-referendum/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The EU is transparant]]></title>
             <description><![CDATA[<article><h1>The EU is transparant</h1><p>The EU publishes all official documents of Commission decisions, EU regulations, funding programs and a lot more on its website and makes them available for everybody. In any rating of legislative transparency, the EU would, surely, come out first in the world.Source</p></article>]]></description>
-            <link>undefinedthe-eu-is-transparant/index.html</link>
+            <link>https://thegrid.ai/eu-referendum/the-eu-is-transparant/index.html</link>
             <guid isPermaLink="false">92b04963-f414-4cb8-90df-68ea8ba5d6ba</guid>
-            <pubDate>Sun, 15 May 2016 22:57:39 GMT</pubDate>
+            <pubDate>Sun, 15 May 2016 23:10:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
