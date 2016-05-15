@@ -1,7 +1,7 @@
 name: EU Referendum
 favicon: null
-layout_spectrum: 0.18192
-typography_spectrum: 0.40816
+layout_spectrum: 0.18577
+typography_spectrum: 0.83591
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.7286771065555513
-  lightness: 0.5625
-  saturation: 0.625
+  lightness: 0.875
+  saturation: 0.875
   rhythmicContrast: 0.25
 purpose: []
